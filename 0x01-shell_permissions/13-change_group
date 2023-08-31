@@ -1,2 +1,2 @@
 #!/bin/bash
-chown school:group hello
+chown school:[group] hello
